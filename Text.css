@@ -1,0 +1,42 @@
+body {
+  background-color:grey;
+  color: blue;
+  text-align:left;
+  text-decoration:overline;
+  text-transform: lowercase;
+  text-indent: 50px;
+  white-space: nowrap;
+
+}
+
+h1 {
+  background-color: red;
+  color: green;
+  text-align:center;
+  letter-spacing: 5px;
+   text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+ 
+  
+}
+h2 {
+  background-color:navy;
+  color: pink;
+  text-align:center;
+  text-decoration: none;
+  text-transform: uppercase;
+  line-height: 0.8;
+  text-shadow: 2px 2px 5px red;
+  
+}
+p {
+  background-color:yellow;
+  color: purple;
+  text-align: right;
+  text-decoration: underline;
+  text-transform: capitalize;
+  word-spacing: 10px;
+  text-shadow: 0 0 3px #ff0000, 0 0 5px #0000ff;
+}
+h6{
+	 text-decoration: line-through;
+}

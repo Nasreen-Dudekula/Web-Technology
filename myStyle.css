@@ -1,0 +1,22 @@
+    
+	body {  
+        background-image:url('monkey.jpg'); 
+		background-position:'center';
+		background-size:1000px 1000px;
+		background-repeat:no-repeat;
+		
+    }  
+    h1 {  
+        color: navy;  
+        margin-left: 20px;  
+    }
+	a{
+		color:red;
+	}
+	h3
+	{
+		background-color:green;
+	}
+	p{
+		background-color:yellow;
+	}
